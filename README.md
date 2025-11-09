@@ -42,7 +42,7 @@ Oczekiwany wynik:
 {"detail":"Brak informacji o stanie magazynowym dla produktu ID 3."}
 
 Struktura projektu
-system-rozproszony/
+Przetwarzanie-rozproszone/
 │
 ├── product_service.py
 ├── stock_service.py
