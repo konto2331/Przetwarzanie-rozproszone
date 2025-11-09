@@ -1,0 +1,2 @@
+# Przetwarzanie-rozproszone
+Lab2
